@@ -3,7 +3,7 @@ name: Verify Human Identity
 on:
   workflow_dispatch:
     inputs:
-      agent_name:fajarrama2017@gmail.com
+      agent_name: fajarrama2017@gmail.com
         description: 'fjrrs'
         required: true
         default: 'fjrrs'
